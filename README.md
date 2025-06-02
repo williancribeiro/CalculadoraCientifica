@@ -70,5 +70,3 @@ Este projeto ensina:
 - Uso das classes `System.Math` e `System.Console`
   
 ---
-
-Feito com 💻 e ☕ por [Seu Nome]
